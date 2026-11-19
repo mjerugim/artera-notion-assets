@@ -12,3 +12,7 @@ These files are made with `scripts/notion_assets.py` in the artera-brand skill a
 
 The Artera logo, brandmark and illustrations are Artera brand assets. Material Symbols are by Google, under the
 Apache License 2.0.
+
+## slides/
+
+Images the Artera Google Slides template places on its layouts (logo files and approved library illustrations, exported as PNG). Google Slides can only insert images from public URLs. Source: the artera-brand skill, `references/slides-and-decks.md`.
